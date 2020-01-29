@@ -21,5 +21,17 @@ def count_articles(path='/Users/christopher/Coding/BA_Code/wiki_dataset_builder/
     print(f'Total articles: {article_counter}')
 
 
+def display_text_of_articles(path='/Users/christopher/Coding/BA_Code/wiki_dataset_builder/new_output/partition00/AA/wiki_00'):
+    import json
+    with open(path, 'r') as r_file:
+        with open('text_display/' + path[-7:], 'w') as w_file:
+            for line in r_file:
+                tmp = json.loads(line)
+                # w_file.write(json.dumps(str(tmp['text'])) + '\n\n\n\n\n')
+                # print(tmp['text'])
+                print(tmp['text'] + '\n' * 10, file=w_file)
+
+
 if __name__ == '__main__':
-	count_articles()
+	# count_articles()
+    display_text_of_articles()

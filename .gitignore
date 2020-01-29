@@ -7,3 +7,5 @@ short_output/
 output/
 .venv/
 new_output/
+text_display/
+generation_examples/
