@@ -2,12 +2,16 @@
 This repo functions as a tool to build a dataset of training samples consisting of machine generated and human generated pairs.<br>
 Output samples are saved as json objects in each line and would look like this:<br>
 
-> ###### hum_[...]_.jsonl######
-> {"label": "human", "id": "12", "title": "This is a title"}
+> ###### hum_[...].jsonl ######
+> 1 {"label": "human", "id": "12", "title": "This is a title"}
+> 2 ...
 
 > ###### mach_[...].jsonl ######
-> {"label": "machine", "id": "12", "title": "This is a title", "text": "This is machine generated text"}
+> 1 {"label": "machine", "id": "12", "title": "This is a title", "text": "This is machine generated text"}
+> 2 ...
 
+## Download ##
+To download the database dumps run `python download.py`
 
 
 ## Pipeline ##
