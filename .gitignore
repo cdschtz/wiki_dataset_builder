@@ -1,6 +1,8 @@
 .DS_Store
 .idea
+.vscode
 .ipynb_checkpoints
 data/
 short_output/
 output/
+.venv
