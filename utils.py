@@ -17,7 +17,7 @@ def count_articles(path='/Users/christopher/Coding/BA_Code/wiki_dataset_builder/
             article_counter += 1
 
     elapsed = time.time() - start
-    print('Finished counting articles in {:4.2f} seconds'.format(elapsed))
+    print('INFO: Finished counting articles in {:4.2f} seconds'.format(elapsed))
     print(f'Total articles: {article_counter}')
 
 
