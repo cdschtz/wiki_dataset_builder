@@ -5,4 +5,5 @@
 data/
 short_output/
 output/
-.venv
+.venv/
+new_output/
