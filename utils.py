@@ -63,9 +63,9 @@ def visualize_text_of_file(f_path):
         split_path = f_path.split('/')[-1].split('_')
         f_vis_obj['in_len'] = int(split_path[3])
         f_vis_obj['out_len'] = split_path[5]
-        f_vis_obj['temp'] = split_path[7]
-        f_vis_obj['rep_pen'] = split_path[9]
-        f_vis_obj['bs_size'] = split_path[11][:-6]
+        f_vis_obj['bs_size'] = split_path[7]
+        f_vis_obj['temp'] = split_path[9]
+        f_vis_obj['rep_pen'] = split_path[11][:-6]
 
         for i, line in enumerate(r_file):
             or_text = get_original_text(i)
@@ -85,7 +85,7 @@ def visualize_text_of_file(f_path):
     with open(out_path, 'w') as w_file:
         w_file.write('Combination:\n')
         w_file.write('- Input Length: ' + str(f_vis_obj['in_len']) + ' chars\n')
-        w_file.write('- Output Length: ' + f_vis_obj['out_len'] + 'tokens\n')
+        w_file.write('- Output Length: ' + f_vis_obj['out_len'] + ' tokens\n')
         w_file.write('- Temperature: ' + f_vis_obj['temp']+ '\n')
         w_file.write('- Repetition Penalty: ' + f_vis_obj['rep_pen']+ '\n')
         w_file.write('- Beam Search Size: ' + f_vis_obj['bs_size'])
@@ -96,7 +96,7 @@ def visualize_text_of_file(f_path):
             w_file.write('\n' * 2 + 'ORIGINAL ' + 30 * '=')
             w_file.write('\n' + article['original'])
             w_file.write('\n' * 4 + 'GENERATED ' + 30 * '=')
-            w_file.write('\n' + article['generated'])
+            w_file.write('\n' + article['generated'][:-1])
 
 
 def visualize_text_of_folder(folder_path):
@@ -109,8 +109,14 @@ def visualize_text_of_folder(folder_path):
         if '.txt' not in file and 'DS_Store' not in file:
             visualize_text_of_file(folder_path + file)
 
+
+def to_word_splitter(txt):
+    print(txt[::-1].split(' ', 1)[1][::-1])
+    pass
+
 if __name__ == '__main__':
     # count_articles()
     # display_text_of_articles()
     # visualize_text_of_file('/Users/christopher/Coding/BA_Code/wiki_dataset_builder/generation_examples/wiki_00_i_40_o_100_nb_5_t_1.0_rp_1.0.jsonl')
     visualize_text_of_folder('/Users/christopher/Coding/BA_Code/wiki_dataset_builder/generation_examples/')
+    # to_word_splitter('Animalia is an ')
