@@ -32,9 +32,9 @@ def display_text_of_articles(path='/Users/christopher/Coding/BA_Code/wiki_datase
                 print(tmp['text'] + '\n' * 10, file=w_file)
 
 
-def get_original_text(idx):
+def get_original_text(idx, or_file_path):
     # TODO: remember to parse the beginning until '\n\n\
-    path = '/Users/christopher/Coding/BA_Code/wiki_dataset_builder/new_output/partition00/AA/wiki_00'
+    path = or_file_path
     with open(path, 'r') as r_file:
         for i, line in enumerate(r_file):
             if i == idx:
@@ -66,9 +66,13 @@ def visualize_text_of_file(f_path):
         f_vis_obj['bs_size'] = split_path[7]
         f_vis_obj['temp'] = split_path[9]
         f_vis_obj['rep_pen'] = split_path[11][:-6]
+        
+        tmp = f_path.split('/')
+        or_folder = '/'.join(tmp[:6]) + '/output/partition00/AA/'
+        or_file = '_'.join(split_path[:2])
 
         for i, line in enumerate(r_file):
-            or_text = get_original_text(i)
+            or_text = get_original_text(i, or_folder + or_file)
             tmp = json.loads(line)
             title = tmp['title']
             gen_text = tmp['text']

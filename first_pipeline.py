@@ -5,8 +5,8 @@ import subprocess
 from pathlib import Path
 
 all_files = []
-wiki_ectractor_output_path = "/Users/christopher/Coding/BA_Code/wikiextractor/output"
-output_base_path = '/Users/christopher/Coding/BA_Code/wikipedia/short_output'
+wiki_ectractor_output_path = "/Users/christopher/Coding/BA_Code/wikiextractor/new_output"
+output_base_path = '/Users/christopher/Coding/BA_Code/wiki_dataset_builder/new_output'
 for root, directories, filenames in os.walk(wiki_ectractor_output_path):
      for filename in filenames:
      	if '.' in filename:
