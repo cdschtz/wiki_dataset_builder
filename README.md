@@ -26,5 +26,7 @@ Finally extracted files size currently 3.08GB (dump size total compressed ~17GB)
 Article amount before: 1177440 (text length > 200) <br>
 Article amount after: 1061896 (text length > 1000)
 
-from google.colab import drive
-drive.mount('/content/drive')
+#### Formats ####
+> {
+>     "metadata":
+> }
