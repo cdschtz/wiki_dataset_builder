@@ -36,20 +36,17 @@ tokenizer = GPT2Tokenizer.from_pretrained(model_path, output_loading_info=False)
 # In[ ]:
 
 
-model = GPT2LMHeadModel.from_pretrained(model_path)
+model = GPT2LMHeadModel.from_pretrained('gpt2-medium')
 
 
 # In[ ]:
 
-print('BEFORE')
-print('Bef cud av', torch.cuda.is_available())
 if torch.cuda.is_available():
     print('CUDA device is available')
     model.to('cuda')
 else:
     print('CUDA device missing')
 model.eval()
-print('AFTER')
 
 # In[96]:
 
