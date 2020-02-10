@@ -36,7 +36,7 @@ tokenizer = GPT2Tokenizer.from_pretrained(model_path, output_loading_info=False)
 # In[ ]:
 
 
-model = GPT2LMHeadModel.from_pretrained('gpt2-medium')
+model = GPT2LMHeadModel.from_pretrained('gpt2-large')
 
 
 # In[ ]:
@@ -63,7 +63,7 @@ def gen_text_from_text(input_text, config, verbose=False):
     with torch.no_grad():
         outputs = generate(
             model,
-            input_ids=torch.tensor(tokenizer.encode(input_text)).unsqueeze(0).cuda(),
+            input_ids=input_ids,
             max_length=config['output_length'],
             do_sample=True,
             num_beams=config['num_beams'],
@@ -208,7 +208,7 @@ config = {
 # In[94]:
 
 
-# logging.getLogger().setLevel(logging.INFO)
+logging.getLogger().setLevel(logging.INFO)
 # generate_text_for_folder(input_folder, config, file_range=range(1), verbose=True)
 
 
