@@ -65,7 +65,7 @@ def gen_text_from_text(input_text, config, verbose=False):
     with torch.no_grad():
         outputs = generate(
             model,
-            input_ids=torch.tensor(tokenizer.encode(text)).unsqueeze(0),
+            input_ids=torch.tensor(tokenizer.encode(input_text)).unsqueeze(0),
             max_length=config['output_length'],
             do_sample=True,
             num_beams=config['num_beams'],
@@ -84,7 +84,7 @@ def gen_text_from_text(input_text, config, verbose=False):
     if verbose:
         logging.info(' Finished Text From Text Generation in {:4.2f} seconds.'.format(elapsed_time))
     
-    if config_num_return_sequences == 1:
+    if config['num_return_sequences'] == 1:
         return tokenizer.decode(outputs[0], skip_special_tokens=True)
     else:
         pass
