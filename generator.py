@@ -58,8 +58,7 @@ def gen_text_from_text(input_text, config, verbose=False):
     if torch.cuda.is_available():
         # input_ids.to('cuda')
         input_ids = input_ids.cuda()
-        
-    
+
     with torch.no_grad():
         outputs = generate(
             model,
@@ -125,20 +124,20 @@ def gen_text_from_file(in_path, config, out_path=None, verbose=False):
             max_text_size = min(len(generated_texts[i]), len(article['text']))
             
             metadata = {
-                id: article['id'],
-                input: input_texts[i]
-            }    
+                "id": article['id'],
+                "input": input_texts[i]
+            }
             ff_gpt2 = {
-                meta: metadata,
-                label: 1,  # machine,
-                title: article['title'],
-                text: generated_texts[i][:max_text_size]
+                "meta": metadata,
+                "label": 1,  # machine,
+                "title": article['title'],
+                "text": generated_texts[i][:max_text_size]
             }
             ff_human = {
-                meta: metadata,
-                label: 0,  # human
-                title: article['title'],
-                text: article['text'][:max_text_size]
+                "meta": metadata,
+                "label": 0,  # human
+                "title": article['title'],
+                "text": article['text'][:max_text_size]
             }
             
             w_file.write(json.dumps(ff_human) + '\n')
@@ -171,15 +170,14 @@ def generate_text_for_folder(in_path, config, file_range=range(1), verbose=False
         split_path = file_path.split('/')
         split_path[2] = 'output_after_gen'
         out_path = '/'.join(split_path) + '.jsonl'
-        
-        
+
         if i in file_range:
             if verbose:
                 start_time = time.time()
                 current_time = datetime.now().strftime("%H:%M:%S")  # get time in hours:minutes:seconds
                 logging.info(info_string.format(i, file_path, 'Started', current_time, 0.00))
             Path(out_path[:-7]).mkdir(parents=True, exist_ok=True)
-            gen_text_from_file(file_path, config, out_path)
+            gen_text_from_file(file_path, config, out_path, verbose=True)
             if verbose:
                 elapsed_time = time.time() - start_time
                 current_time = datetime.now().strftime("%H:%M:%S")  # get time in hours:minutes:seconds
