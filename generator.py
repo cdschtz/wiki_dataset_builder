@@ -56,7 +56,8 @@ def gen_text_from_text(input_text, config, verbose=False):
     
     input_ids = torch.tensor(tokenizer.encode(input_text)).unsqueeze(0)
     if torch.cuda.is_available():
-        input_ids.to('cuda')
+        # input_ids.to('cuda')
+        input_ids = input_ids.cuda()
         
     
     with torch.no_grad():
