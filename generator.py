@@ -63,7 +63,7 @@ def gen_text_from_text(input_text, config, verbose=False):
     with torch.no_grad():
         outputs = generate(
             model,
-            input_ids=torch.tensor(tokenizer.encode(input_text)).unsqueeze(0),
+            input_ids=torch.tensor(tokenizer.encode(input_text)).unsqueeze(0).cuda(),
             max_length=config['output_length'],
             do_sample=True,
             num_beams=config['num_beams'],
