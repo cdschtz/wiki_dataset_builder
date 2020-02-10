@@ -137,7 +137,7 @@ def gen_text_from_file(in_path, config, out_path=None, verbose=False):
                 "meta": metadata,
                 "label": 0,  # human
                 "title": article['title'],
-                "text": article['text'][:max_text_size]
+                "text": article['text'].split('\n\n', 1)[1][:max_text_size]
             }
             
             w_file.write(json.dumps(ff_human) + '\n')
