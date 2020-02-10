@@ -41,14 +41,15 @@ model = GPT2LMHeadModel.from_pretrained(model_path)
 
 # In[ ]:
 
-
+print('BEFORE')
+print('Bef cud av', torch.cuda.is_available())
 if torch.cuda.is_available():
     print('CUDA device is available')
     model.to('cuda')
 else:
     print('CUDA device missing')
-model.eval();
-
+model.eval()
+print('AFTER')
 
 # In[96]:
 
