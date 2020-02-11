@@ -209,7 +209,7 @@ config = {
 
 
 logging.getLogger().setLevel(logging.INFO)
-generate_text_for_folder(input_folder, config, file_range=range(1), verbose=True)
+generate_text_for_folder(input_folder, config, file_range=range(100), verbose=True)
 
 
 # In[42]:
