@@ -121,7 +121,7 @@ def gen_text_from_file(in_path, config, out_path=None, verbose=False):
     with open(out_path, 'w') as w_file:
         for i, article in enumerate(original_file_articles):
             article.pop('url', None)
-            max_text_size = min(len(generated_texts[i]), len(article['text']))
+            max_text_size = min(len(generated_texts[i]), len(article['text'])) - 1  # -1 to suppress '!' output at end
             
             metadata = {
                 "id": article['id'],
@@ -162,6 +162,8 @@ def generate_text_for_folder(in_path, config, file_range=range(1), verbose=False
     
     info_string = '{:5}|{:50}|{:10}|{:20}|{:6.2f}'
     if verbose:
+        logging.info('TOTAL FILES', total_files)
+        logging.info(f'FILES TO GENERATE: {file_range[0]} - {file_range[-1]}')
         logging.info('{:5}|{:50}|{:10}|{:20}|{:9}'.format('No.', 'Filename', 'Status', 'Time', 'Elapsed (seconds)'))
 
     for i, file_path in enumerate(all_files):
