@@ -157,7 +157,7 @@ def generate_text_for_folder(in_path, config, file_range=range(1), verbose=False
                 all_files.append(os.path.join(root, filename))
 
     all_files = sorted(all_files)
-    total_files = len(all_files[0])
+    total_files = len(all_files)
     
     info_string = '{:5}|{:50}|{:10}|{:20}|{:6.2f}'
     if verbose:
