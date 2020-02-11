@@ -5,6 +5,7 @@
 
 
 import os
+import sys
 import time
 import json
 import torch
@@ -224,7 +225,17 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 
 # logging.getLogger().setLevel(logging.INFO)
-generate_text_for_folder(input_folder, config, file_range=range(1), verbose=True)
+
+f_range = range(1)
+# check for user input
+if len(sys.argv) == 3:
+    # two args for range were provided
+    f_range = range(int(sys.argv[1]), int(sys.argv[2]))
+elif len(sys.argv) == 2:
+    # one arg for range was provided
+    f_range = range(int(sys.argv[2]))
+
+generate_text_for_folder(input_folder, config, file_range=f_range, verbose=True)
 
 
 # In[42]:
