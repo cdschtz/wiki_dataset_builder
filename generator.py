@@ -164,7 +164,7 @@ def generate_text_for_folder(in_path, config, file_range=range(1), verbose=False
     
     info_string = '{:5}|{:50}|{:10}|{:20}|{:6.2f}'
     if verbose:
-        logging.info('TOTAL FILES ' + total_files)
+        logging.info('TOTAL FILES ' + str(total_files))
         logging.info(f'FILES TO GENERATE: {file_range[0]} - {file_range[-1]}')
         logging.info('{:5}|{:50}|{:10}|{:20}|{:9}'.format('No.', 'Filename', 'Status', 'Time', 'Elapsed (seconds)'))
 
@@ -210,21 +210,26 @@ config = {
 # In[94]:
 
 
-logger = logging.getLogger()
-logger.setLevel(logging.INFO)
+# logger = logging.getLogger(__name__)
+# logger.setLevel(logging.INFO)
 
 # create a file handler
-handler = logging.FileHandler('logs/info.log')
-handler.setLevel(logging.INFO)
+# handler = logging.FileHandler('logs/info.log')
+# handler.setLevel(logging.INFO)
 
 # create a logging format
-formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-handler.setFormatter(formatter)
+# formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+# handler.setFormatter(formatter)
 
 # add the file handler to the logger
-logger.addHandler(handler)
+# logger.addHandler(handler)
 
 # logging.getLogger().setLevel(logging.INFO)
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    filename='logs/info.log')
 
 f_range = range(1)
 # check for user input
