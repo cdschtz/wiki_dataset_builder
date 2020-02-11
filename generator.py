@@ -30,13 +30,13 @@ model_path = './model_files/gpt2-xl/'
 # In[5]:
 
 
-tokenizer = GPT2Tokenizer.from_pretrained(model_path, output_loading_info=False)
+tokenizer = GPT2Tokenizer.from_pretrained('gpt2-medium', output_loading_info=False)
 
 
 # In[ ]:
 
 
-model = GPT2LMHeadModel.from_pretrained('gpt2-large')
+model = GPT2LMHeadModel.from_pretrained('gpt2-medium')
 
 
 # In[ ]:
@@ -158,7 +158,7 @@ def generate_text_for_folder(in_path, config, file_range=range(1), verbose=False
                 all_files.append(os.path.join(root, filename))
 
     all_files = sorted(all_files)
-    total_files = len(all_files)
+    total_files = len(all_files[0])
     
     info_string = '{:5}|{:50}|{:10}|{:20}|{:6.2f}'
     if verbose:
@@ -209,7 +209,7 @@ config = {
 
 
 logging.getLogger().setLevel(logging.INFO)
-generate_text_for_folder(input_folder, config, file_range=range(1, 10), verbose=True)
+generate_text_for_folder(input_folder, config, file_range=range(1), verbose=True)
 
 
 # In[42]:
