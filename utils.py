@@ -1,17 +1,18 @@
 import os
 import json
 
-def count_articles(path='/Users/christopher/Coding/BA_Code/wiki_dataset_builder/new_output'):
+
+def count_articles(path='/Users/christopher/Coding/BA_Code/wiki_dataset_builder/data/output_before_gen/'):
     import time
     start = time.time()
     article_counter = 0
     all_files = []
     for root, directories, filenames in os.walk(path):
-     for filename in filenames:
-     	if '.' in filename:
-     		continue
-     	else:
-             all_files.append(os.path.join(root, filename))
+        for filename in filenames:
+            if '.' in filename:
+                continue
+            else:
+                all_files.append(os.path.join(root, filename))
     
     for file in all_files:
         for line in file:

@@ -14,6 +14,7 @@ from datetime import datetime
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
 
 
+
 # In[3]:
 
 
@@ -23,7 +24,7 @@ from generator_factory import generate
 # In[4]:
 
 
-logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.INFO)
+# logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.INFO)
 model_path = './model_files/gpt2-xl/'
 
 
@@ -36,7 +37,7 @@ tokenizer = GPT2Tokenizer.from_pretrained('gpt2-medium', output_loading_info=Fal
 # In[ ]:
 
 
-model = GPT2LMHeadModel.from_pretrained('gpt2-medium')
+model = GPT2LMHeadModel.from_pretrained('gpt2-medium', output_loading_info=False)
 
 
 # In[ ]:
@@ -162,7 +163,7 @@ def generate_text_for_folder(in_path, config, file_range=range(1), verbose=False
     
     info_string = '{:5}|{:50}|{:10}|{:20}|{:6.2f}'
     if verbose:
-        logging.info('TOTAL FILES', total_files)
+        logging.info('TOTAL FILES ' + total_files)
         logging.info(f'FILES TO GENERATE: {file_range[0]} - {file_range[-1]}')
         logging.info('{:5}|{:50}|{:10}|{:20}|{:9}'.format('No.', 'Filename', 'Status', 'Time', 'Elapsed (seconds)'))
 
@@ -208,7 +209,21 @@ config = {
 # In[94]:
 
 
-logging.getLogger().setLevel(logging.INFO)
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+
+# create a file handler
+handler = logging.FileHandler('logs/info.log')
+handler.setLevel(logging.INFO)
+
+# create a logging format
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+
+# add the file handler to the logger
+logger.addHandler(handler)
+
+# logging.getLogger().setLevel(logging.INFO)
 generate_text_for_folder(input_folder, config, file_range=range(1), verbose=True)
 
 
