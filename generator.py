@@ -44,10 +44,7 @@ model = GPT2LMHeadModel.from_pretrained('gpt2-medium', output_loading_info=False
 # In[ ]:
 
 if torch.cuda.is_available():
-    print('CUDA device is available')
     model.to('cuda')
-else:
-    print('CUDA device missing')
 model.eval()
 
 # In[96]:
