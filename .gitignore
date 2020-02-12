@@ -11,3 +11,4 @@ text_display/
 generation_examples_legacy/
 __pycache__
 model_files
+logs
