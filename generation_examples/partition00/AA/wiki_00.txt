@@ -1,0 +1,418 @@
+
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Anarchism
+
+Input: Anarchism is an anti-authoritarian political and social
+
+ORIGINAL ==============================
+Anarchism is an anti-authoritarian political and social philosophy that rejects hierarchies deemed unjust and advocates their replacement with self-managed, self-governed societies based on voluntary, cooperative institutions. These institution
+
+
+
+GENERATED ==============================
+Anarchism is an anti-authoritarian political and social position that rejects authority, hierarchies or hierarchical structures in the society;
+ "There are no right answers to life. Life can be lived either by choices of one's actions on behalf
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Autism
+
+Input: Autism is a developmental disorder characterized by
+
+ORIGINAL ==============================
+Autism is a developmental disorder characterized by difficulties with social interaction and communication, and by restricted and repetitive behavior. Parents usually notice signs during the first three years of their child's life. These signs often develop gradually, though som
+
+
+
+GENERATED ==============================
+Autism is a developmental disorder characterized by repetitive behaviors for as long-term as six years. While some children are responsive to early support, other cannot tolerate sustained delays and suffer from profound difficulty in school progress.
+In an article reported
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Albedo
+
+Input: Albedo () (, meaning 'whiteness') is the measure of the
+
+ORIGINAL ==============================
+Albedo () (, meaning 'whiteness') is the measure of the diffuse reflection of solar radiation out of the total solar radiation received by an astronomical body (e.g. a planet like Earth). It is dimens
+
+
+
+GENERATED ==============================
+Albedo () (, meaning 'whiteness') is the measure of the distance from a given point as specified by Newton's laws. Density-time coefficients and density are computed using equation 8 in. Equation 6
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Achilles
+
+Input: In Greek mythology, Achilles ( ) or Achilleus (, ) was a
+
+ORIGINAL ==============================
+In Greek mythology, Achilles ( ) or Achilleus (, ) was a hero of the Trojan War, the greatest of all the Greek warriors, and is the central character of Homer's "Iliad". He was the son of the Nereid Thetis and P
+
+
+
+GENERATED ==============================
+In Greek mythology, Achilles ( ) or Achilleus (, ) was a mighty hero who fought with great ferocity in the Trojan war. He had received his strength from Agamemnon and killed both men behind him and at their feet
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Aristotle
+
+Input: Aristotle (; "Aristotélēs", ; 384–322 BC) was a Greek
+
+ORIGINAL ==============================
+Aristotle (; "Aristotélēs", ; 384–322 BC) was a Greek philosopher and polymath during the Classical period in Ancient Greece. He was the founder of the Lyceum and the Peripatetic school of phil
+
+
+
+GENERATED ==============================
+Aristotle (; "Aristotélēs", ; 384–322 BC) was a Greek philosopher, astronomer and mathematician who lived between 420 and 322 BC. His work remains the best known example of geometrical geometry
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: An American in Paris
+
+Input: An American in Paris is a jazz-influenced orchestral piece
+
+ORIGINAL ==============================
+An American in Paris is a jazz-influenced orchestral piece by American composer George Gershwin first performed in 1928. It was inspired by the time that Gershwin had spent in Paris and evokes the s
+
+
+
+GENERATED ==============================
+An American in Paris is a jazz-influenced orchestral piece that starts with two bars, then moves to three. In the second bar are no fewer than 15 pianos — 14 bassoons and 8 violins; each playing its
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Academy Awards
+
+Input: The Academy Awards, more popularly known as the Oscars, are
+
+ORIGINAL ==============================
+The Academy Awards, more popularly known as the Oscars, are awards for artistic and technical merit in the film industry. Given annually by the Academy of Motion Picture Arts and Sciences (AMPAS), the awards are an international recognition of excel
+
+
+
+GENERATED ==============================
+The Academy Awards, more popularly known as the Oscars, are an annual awards ceremony of film and television. This year's series is a retelling featuring three iconic character from TV shows such or Star Trek: The Next Generation (both in continuity
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Actrius
+
+Input: Actresses (Catalan: Actrius) is a 1997 Catalan language
+
+ORIGINAL ==============================
+Actresses (Catalan: Actrius) is a 1997 Catalan language Spanish drama film produced and directed by Ventura Pons and based on the award-winning stage play "E.R." by Josep Maria Benet i Jornet
+
+
+
+GENERATED ==============================
+Actresses (Catalan: Actrius) is a 1997 Catalan language film released on DVD and Blu-ray by Constantin Films in the UK. It stars Gael Garcia Bernal, Gabrielle Unionino Sarrúa, Angelica Piment
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: International Atomic Time
+
+Input: International Atomic Time (TAI, from the French name ) is a
+
+ORIGINAL ==============================
+International Atomic Time (TAI, from the French name ) is a high-precision atomic coordinate time standard based on the notional passage of proper time on Earth's geoid. It is the principal realisation of Terrestrial Time (with a fixed offset of epoch). 
+
+
+
+GENERATED ==============================
+International Atomic Time (TAI, from the French name ) is a global standard that regulates time by counting consecutive seconds. The clock of atomic number 662 was created on May 3 and used to keep track when minutes were numbered only but later switched
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Algeria
+
+Input: Algeria ( ; , ; ), officially the People's Democratic
+
+ORIGINAL ==============================
+Algeria ( ; , ; ), officially the People's Democratic Republic of Algeria (, , abbreviated as RADP), is a country in the Maghreb region of North Africa, The capital and most populous city is Algiers, located in the far north of the country on the Mediterranean coas
+
+
+
+GENERATED ==============================
+Algeria ( ;, ; ), officially the People's Democratic Republic of Afghanistan, is recognized under international law as a sovereign state with self-government. However it denies this status by making claims that its members are part Muslims and therefore must follow
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Anthropology
+
+Input: Anthropology is the scientific study of humans, human
+
+ORIGINAL ==============================
+Anthropology is the scientific study of humans, human behavior and societies in the past and present. Social anthropology studies patterns of behaviour and cultural anthropology studies cultural meaning, including norms and values. Linguistic anthropology studies how lang
+
+
+
+GENERATED ==============================
+Anthropology is the scientific study of humans, human culture and society. Anthropology has several areas; Human Biology, Social Science Psychology Studies on Society / Culture anthropology (such as archaeology, ethnography etc.) studies or even philosophy & social theory
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Agricultural science
+
+Input: Agricultural science is a broad multidisciplinary field of
+
+ORIGINAL ==============================
+Agricultural science is a broad multidisciplinary field of biology that encompasses the parts of exact, natural, economic and social sciences that are used in the practice and understanding of agriculture. (Veterinary science, but not animal science, is often exc
+
+
+
+GENERATED ==============================
+Agricultural science is a broad multidisciplinary field of research that deals with the study-and measurement mechanisms for crop species ecology, management practices and ecosystem services [12]. A number different types (mainly experimental) have been used. The
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Alchemy
+
+Input: Alchemy (from Arabic: "al-kīmiyā") was an ancient branch of
+
+ORIGINAL ==============================
+Alchemy (from Arabic: "al-kīmiyā") was an ancient branch of natural philosophy, a philosophical and protoscientific tradition practised throughout Europe, Africa, and Asia, originating in Greco-Roman Egypt in the firs
+
+
+
+GENERATED ==============================
+Alchemy (from Arabic: "al-kīmiyā") was an ancient branch of alchemy dating to the seventh century, which developed a powerful mechanism called transmutation that let it turn anything into gold or other metals. At some
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Astronomer
+
+Input: An astronomer is a scientist in the field of astronomy who
+
+ORIGINAL ==============================
+An astronomer is a scientist in the field of astronomy who focuses their studies on a specific question or field outside the scope of Earth. They observe astronomical objects such as stars, planets, moons, comets, and galaxies – in either observational (by analyzing the data) or theor
+
+
+
+GENERATED ==============================
+An astronomer is a scientist in the field of astronomy who studies small objects at large distances. Like astrology, scientists don't view these as tangible entities that could have physical signs on their faces but instead consider them more like patterns and events occurring through
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: ASCII
+
+Input: ASCII ( ), abbreviated from American Standard Code for
+
+ORIGINAL ==============================
+ASCII ( ), abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are base
+
+
+
+GENERATED ==============================
+ASCII ( ), abbreviated from American Standard Code for Information Interchange. This document incorporates those changes in Unicode 6 as of this date, along with the general adoption of International Business Machines Corporation standardization protocols to handle ISO 8859-1 and
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Andre Agassi
+
+Input: Andre Kirk Agassi ( ; born April 29, 1970) is an American
+
+ORIGINAL ==============================
+Andre Kirk Agassi ( ; born April 29, 1970) is an American retired professional tennis player and former world No. 1 whose career spanned from the late 1980s to the early 2000s. In singles, Agassi is an eight-time Grand Slam ch
+
+
+
+GENERATED ==============================
+Andre Kirk Agassi ( ; born April 29, 1970) is an American professional kick boxer who recently returned to the ring after his 16 year retirement as part of a promotion known collectively by that tag team name "Ace & Athlete."
+
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Austroasiatic languages
+
+Input: The Austroasiatic languages , also known as Mon–Khmer , are
+
+ORIGINAL ==============================
+The Austroasiatic languages , also known as Mon–Khmer , are a large language family of Mainland Southeast Asia, also scattered throughout parts of India, Bangladesh, Nepal, and southern China. There are around 117 million sp
+
+
+
+GENERATED ==============================
+The Austroasiatic languages, also known as Mon–Khmer, are part of the ancient Khoisan culture around 3,000 years ago. The oldest writing remains from this area show that both script and character patterns vary widely in type
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Afroasiatic languages
+
+Input: Afroasiatic (Afro-Asiatic), also known as Afrasian and in
+
+ORIGINAL ==============================
+Afroasiatic (Afro-Asiatic), also known as Afrasian and in older sources as Hamito-Semitic (Chamito-Semitic) or Semito-Hamitic, is a large language family of about 300 languages that are spoken predominantly in We
+
+
+
+GENERATED ==============================
+Afroasiatic (Afro-Asiatic), also known as Afrasian and in English, is a region comprising two main portions: Northwest Africa (North West corner) which includes Cape Coast subregion of South Africa; and Southwest
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Andorra
+
+Input: Andorra (, ; ), officially the Principality of Andorra (),
+
+ORIGINAL ==============================
+Andorra (, ; ), officially the Principality of Andorra (), also called the Principality of the Valleys of Andorra (), is a sovereign landlocked microstate on the Iberian Peninsula, in the eastern Pyrenees, bordered 
+
+
+
+GENERATED ==============================
+Andorra (, ; ), officially the Principality of Andorra (), and with which Spain has been at war so lately. This conflict was begun by Charles V., against Philip II.; they were joined when his son Louis succeeded him
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Arithmetic mean
+
+Input: In mathematics and statistics, the arithmetic mean (,
+
+ORIGINAL ==============================
+In mathematics and statistics, the arithmetic mean (, stress on third syllable of "arithmetic"), or simply the mean or average when the context is clear, is the sum of a collection of numbers divided by the count of 
+
+
+
+GENERATED ==============================
+In mathematics and statistics, the arithmetic mean (, or A) is used to tell you how similar two numbers are: in that example 1/2 means half a point per unit distance across. So we can see if there's anything odd with
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: American Football Conference
+
+Input: The American Football Conference (AFC) is one of the two
+
+ORIGINAL ==============================
+The American Football Conference (AFC) is one of the two conferences of the National Football League (NFL), the highest professional level of American football in the United States. This conference and its counterpart the National Football Conference (NFC), currently c
+
+
+
+GENERATED ==============================
+The American Football Conference (AFC) is one of the two members league, and in 2012 it formed a new partnership with AFC United States. The purpose behind this merger was to provide membership opportunities for those players who were eligible but not currently playing
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Animal Farm
+
+Input: Animal Farm is an allegorical novella by George Orwell,
+
+ORIGINAL ==============================
+Animal Farm is an allegorical novella by George Orwell, first published in England on 17 August 1945. The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be
+
+
+
+GENERATED ==============================
+Animal Farm is an allegorical novella by George Orwell, one of the last great American novels written before we had computers and post-production software. It tells how three families (in this case British), in a rural community called Dunland
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Amphibian
+
+Input: Amphibians are ectothermic, tetrapod vertebrates of the
+
+ORIGINAL ==============================
+Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. Modern amphibians are all Lissamphibia. They inhabit a wide variety of habitats
+
+
+
+GENERATED ==============================
+Amphibians are ectothermic, tetrapod vertebrates of the genera Ankylosaurs and Rhamphorhynchus. They derive their name from Aptostichthon (Apsyllidae),

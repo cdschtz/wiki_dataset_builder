@@ -1,0 +1,492 @@
+######################################## ARTICLE ########################################
+
+
+Title: Agriculture
+
+Input: Agriculture is the science and art of cultivating plants
+
+ORIGINAL ==============================
+Agriculture is the science and art of cultivating plants and livestock. Agriculture was the key development in the rise of sedentary human civilization, whereby farming of domesticated species created food surpluses that enabled people to live in c
+
+
+
+GENERATED ==============================
+Agriculture is the science and art of cultivating plants rather than raising livestock, which may be what started it all," wrote Richard Dawkins.
+I'd also point out that not everyone who thinks humans are inherently evil can relate to being a part
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Aldous Huxley
+
+Input: Aldous Leonard Huxley (26 July 1894 – 22 November 1963) was
+
+ORIGINAL ==============================
+Aldous Leonard Huxley (26 July 1894 – 22 November 1963) was an English writer and philosopher. He wrote nearly fifty books—both novels and non-fiction works—as well as wide-ranging essays, narratives, and poems.
+
+Born in
+
+
+
+GENERATED ==============================
+Aldous Leonard Huxley (26 July 1894 – 22 November 1963) was American writer, critic and historian known for his book Brave New World as well the Ayn Rand biographies. The novel has been criticized by some philosophers in
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Algae
+
+Input: Algae (; singular alga ) is an informal term for a large,
+
+ORIGINAL ==============================
+Algae (; singular alga ) is an informal term for a large, diverse group of photosynthetic eukaryotic organisms that are not necessarily closely related, and is thus polyphyletic. Included organisms range from unicellular microalgae, 
+
+
+
+GENERATED ==============================
+Algae (; singular alga ) is an informal term for a large, usually freshwater algae that grows in ponds and bodies of water. Unlike other forms thereof such as chlorophyll which are produced by photosynthesis or plant respiration, all
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Analysis of variance
+
+Input: Analysis of variance (ANOVA) is a collection of statistical
+
+ORIGINAL ==============================
+Analysis of variance (ANOVA) is a collection of statistical models and their associated estimation procedures (such as the "variation" among and between groups) used to analyze the differences among group means in a sample. ANOVA was develop
+
+
+
+GENERATED ==============================
+Analysis of variance (ANOVA) is a collection of statistical tests that provide an independent result from data taken at multiple comparisons.
+ [6] A meta analysis was carried out using the "BMI-standardized" and other standard variables when
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Alkane
+
+Input: In organic chemistry, an alkane, or paraffin (a historical
+
+ORIGINAL ==============================
+In organic chemistry, an alkane, or paraffin (a historical name that also has other meanings), is an acyclic saturated hydrocarbon. In other words, an alkane consists of hydrogen and carbon atoms arranged in a tree st
+
+
+
+GENERATED ==============================
+In organic chemistry, an alkane, or paraffin (a historical and chemical term) is formed by mixing the oxygen with ammonium hydrosulfide. The solution of this ammonia causes a precipitate that dissolves water in it but
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Appellate procedure in the United States
+
+Input: United States appellate procedure involves the rules and
+
+ORIGINAL ==============================
+United States appellate procedure involves the rules and regulations for filing appeals in state courts and federal courts. The nature of an appeal can vary greatly depending on the type of case and the rules of the court in the jurisdiction where the case was prosecuted. There are many types of standard of review for a
+
+
+
+GENERATED ==============================
+United States appellate procedure involves the rules and procedures of court, with no judicial authorisation or consent which would prevent a State judge from performing his functions without direct interference. The Federal level appeals courts are independent agencies created by law to provide effective guidance about
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Answer (law)
+
+Input: In law, an Answer was originally a solemn assertion in
+
+ORIGINAL ==============================
+In law, an Answer was originally a solemn assertion in opposition to someone or something, and thus generally any counter-statement or defense, a reply to a question or response, or objection, or a correct solution of a problem.
+
+In the common law, an Answe
+
+
+
+GENERATED ==============================
+In law, an Answer was originally a solemn assertion in the absence of particular proof at common-law. Its meaning as to what must be proved is sometimes confounded with that which cannot reasonably exist and may have been implied by earlier expressions (for
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Appellate court
+
+Input: An appellate court, commonly called an appeals court, court
+
+ORIGINAL ==============================
+An appellate court, commonly called an appeals court, court of appeals (American English), appeal court (British English), court of second instance or second instance court, is any court of law that is empowered to hear an appeal of a trial court or other lower tribunal. In most jurisdiction
+
+
+
+GENERATED ==============================
+An appellate court, commonly called an appeals court, court of appeal or intermediate tribunal has the right to remove all records kept by a government agency and transfer them to private organizations which are not related in any way with that organization. Such transferred information must
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Arraignment
+
+Input: Arraignment is a formal reading of a criminal charging
+
+ORIGINAL ==============================
+Arraignment is a formal reading of a criminal charging document in the presence of the defendant to inform the defendant of the charges against the defendant. In response to arraignment, the accused is expected to enter a plea. Acceptable pleas vary among jurisdictions, b
+
+
+
+GENERATED ==============================
+Arraignment is a formal reading of a criminal charging document. The case itself normally proceeds into two rounds where the prosecution and defense may submit exhibits; in some cases, an indictment (the accused faces charges beyond only murder), others are pending before
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: America the Beautiful
+
+Input: "America the Beautiful" is an American patriotic song. The
+
+ORIGINAL ==============================
+"America the Beautiful" is an American patriotic song. The lyrics were written by Katharine Lee Bates, and the music was composed by church organist and choirmaster Samuel A. Ward at Grace Episcopal Church in Newark, New Jersey. The two never met.
+
+
+
+GENERATED ==============================
+"America the Beautiful" is an American patriotic song. The lyrics speak of America, but also remind us that every country has its problems and there have been some great times in history when it was accomplished with resolve and strength."
+I don't
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Assistive technology
+
+Input: Assistive technology (AT) is assistive, adaptive, and
+
+ORIGINAL ==============================
+Assistive technology (AT) is assistive, adaptive, and rehabilitative devices for people with disabilities or the elderly population. People who have disabilities often have difficulty performing activities of daily living (ADLs) independently, or even with assistance. ADLs ar
+
+
+
+GENERATED ==============================
+Assistive technology (AT) is assistive, adaptive, and responsive for individuals with autism: the capability of identifying speech patterns that are associated only in a limited number. In order to successfully guide their user through tasks involving rapid verbal processing,
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Abacus
+
+Input: The abacus ("plural" abaci or abacuses), also called a
+
+ORIGINAL ==============================
+The abacus ("plural" abaci or abacuses), also called a counting frame, is a calculating tool that was in use in the ancient Near East, Europe, China, and Russia, centuries before the adoption 
+
+
+
+GENERATED ==============================
+The abacus ("plural" abaci or abacuses), also called a scale with two small pieces, is sometimes translated as "four-foot of diamonds". It has the exact same shape as an 8mm (1") square mirror
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Acid
+
+Input: An acid is a molecule or ion capable of donating a proton
+
+ORIGINAL ==============================
+An acid is a molecule or ion capable of donating a proton (hydrogen ion H) (a Brønsted–Lowry acid), or, alternatively, capable of forming a covalent bond with an electron pair (a Lewis acid).
+
+The first category of acids are the proton donors, or Brønsted–Lowr
+
+
+
+GENERATED ==============================
+An acid is a molecule or ion capable of donating a proton in one direction along with another for energy. A carbon-carbon bond carries over the charge and repulsion to transfer electrons from hydrogen into oxygen; an electrostatic discharge forces atoms inside
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Asphalt
+
+Input: Asphalt, also known as bitumen (, ), is a sticky, black,
+
+ORIGINAL ==============================
+Asphalt, also known as bitumen (, ), is a sticky, black, and highly viscous liquid or semi-solid form of petroleum. It may be found in natural deposits or may be a refined product, and is classed as a p
+
+
+
+GENERATED ==============================
+Asphalt, also known as bitumen (, ), is a sticky, black, brittish oil that has been used in manufacturing since the 1600s. It's thick but flexible; it can stick to almost anything if you try hard enough
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: American National Standards Institute
+
+Input: The American National Standards Institute (ANSI ) is a
+
+ORIGINAL ==============================
+The American National Standards Institute (ANSI ) is a private non-profit organization that oversees the development of voluntary consensus standards for products, services, processes, systems, and personnel in the United States. The organization also coordinates U.S. standards with inter
+
+
+
+GENERATED ==============================
+The American National Standards Institute (ANSI ) is a national standard-setting organization. It defines certain categories of devices from which different types or variations are permitted, with ANSI having jurisdiction over most parts and components used in computing systems around the
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Apollo 11
+
+Input: Apollo 11 was the spaceflight that first landed humans on
+
+ORIGINAL ==============================
+Apollo 11 was the spaceflight that first landed humans on the Moon. Commander Neil Armstrong and lunar module pilot Buzz Aldrin formed the American crew that landed the Apollo Lunar Module "Eagle" on July 20, 1969, at 20:17 UTC. Armstrong became the first person to st
+
+
+
+GENERATED ==============================
+Apollo 11 was the spaceflight that first landed humans on other planets. The agency plans to land multiple human-like vehicles onto asteroids in a decade's time, and launch astronauts back through dense atmospheres of hydrogen powder before returning them aboard their
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Astronaut
+
+Input: An astronaut or cosmonaut is a person trained by a human
+
+ORIGINAL ==============================
+An astronaut or cosmonaut is a person trained by a human spaceflight program to command, pilot, or serve as a crew member of a spacecraft. Although generally reserved for professional space travelers, the terms are sometimes applied to anyone who travels into
+
+
+
+GENERATED ==============================
+An astronaut or cosmonaut is a person trained by a human body and tested for space suit protection on Earth. Their mission also includes flying into orbit, landing successfully at his destination, returning home safely to earth and then living out the rest of
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Alkali metal
+
+Input: The alkali metals consist of the chemical elements lithium
+
+ORIGINAL ==============================
+The alkali metals consist of the chemical elements lithium (Li), sodium (Na), potassium (K), rubidium (Rb), caesium (Cs), and francium (Fr). Together with hydrogen they comprise group 1, which lies in the s-block of the periodic table. All alkali metals have their
+
+
+
+GENERATED ==============================
+The alkali metals consist of the chemical elements lithium, iron and magnesium. All these have properties that can reduce light energy to near absolute zero by using electrons as their source. But for those who are curious about how a small fraction will make them
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Alphabet
+
+Input: An alphabet is a standard set of letters (basic written
+
+ORIGINAL ==============================
+An alphabet is a standard set of letters (basic written symbols or graphemes) that represent the phonemes (basic significant sounds) of any spoken language used for its written form. This is in contrast to other types of wri
+
+
+
+GENERATED ==============================
+An alphabet is a standard set of letters (basic written characters like "1" or "#") that can be displayed as digits 1-9 by any computer. They work to describe certain bits of information, but they are also used in other ways
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Atomic number
+
+Input: The atomic number or proton number (symbol "Z") of a
+
+ORIGINAL ==============================
+The atomic number or proton number (symbol "Z") of a chemical element is the number of protons found in the nucleus of every atom of that element. The atomic number uniquely identifies a chemical element. It is identical to the 
+
+
+
+GENERATED ==============================
+The atomic number or proton number (symbol "Z") of a neutron bomb. A radioactive substance is an energy that passes through particles, atoms and molecules in its path as it falls towards the earth's surface. The neutrons are not
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Anatomy
+
+Input: Anatomy (Greek anatomē, "dissection") is the branch of
+
+ORIGINAL ==============================
+Anatomy (Greek anatomē, "dissection") is the branch of biology concerned with the study of the structure of organisms and their parts. Anatomy is a branch of natural science which deals with the structural organization of living things. It is an o
+
+
+
+GENERATED ==============================
+Anatomy (Greek anatomē, "dissection") is the branch of anatomy devoted to a complete and detailed description or explanation for complex body objects. Most anatomical knowledge was learned by observing one's own face as they looked at their bodies
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Andrei Tarkovsky
+
+Input: Andrei Arsenyevich Tarkovsky (; 4 April 1932 – 29 December
+
+ORIGINAL ==============================
+Andrei Arsenyevich Tarkovsky (; 4 April 1932 – 29 December 1986) was a Russian filmmaker, writer, and film theorist. He is widely considered one of the greatest directors in the history of cin
+
+
+
+GENERATED ==============================
+Andrei Arsenyevich Tarkovsky (; 4 April 1932 – 29 December 1975), Ukrainian writer, actor and dissident. He was born in the town of Stavropol but became educated at Moscow State University. In
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Aardvark
+
+Input: The aardvark ( ; "Orycteropus afer") is a medium-sized,
+
+ORIGINAL ==============================
+The aardvark ( ; "Orycteropus afer") is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric 
+
+
+
+GENERATED ==============================
+The aardvark ( ; "Orycteropus afer") is a medium-sized, carnivorous lizard. They are very large; up to three meters tall and eight tons in weight. A single one weighed five hundred pounds
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Aardwolf
+
+Input: The aardwolf ("Proteles cristata") is an insectivorous
+
+ORIGINAL ==============================
+The aardwolf ("Proteles cristata") is an insectivorous mammal, native to East and Southern Africa. Its name means "earth-wolf" in Afrikaans and Dutch. It is also called "maanhaar-jackal" (Afrikaans for "mane-jackal") 
+
+
+
+GENERATED ==============================
+The aardwolf ("Proteles cristata") is an insectivorous lizard found only in the Great Plateau and Southwestern regions.
+All of these subspecies differ greatly in their skin coloration (with some being completely black
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Adventure
+
+Input: An adventure is an exciting experience that is typically a
+
+ORIGINAL ==============================
+An adventure is an exciting experience that is typically a bold, sometimes risky, undertaking. Adventures may be activities with some potential for physical danger su
+
+
+
+GENERATED ==============================
+An adventure is an exciting experience that is typically a one or two day outing, and this week we'll be heading out for what can't possibly compare to the real thing
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Asia
+
+Input: Asia () is Earth's largest and most populous continent,
+
+ORIGINAL ==============================
+Asia () is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe and the continental landmass of Afro-Eurasia with both E
+
+
+
+GENERATED ==============================
+Asia () is Earth's largest and most populous continent, about 1.3 billion hectares (588 million acres). The continents' physical size has led some to believe that the world was originally too small for all life, but this idea contradicts previous
+
+
+
+
+######################################## ARTICLE ########################################
+
+
+Title: Atlantic Ocean
+
+Input: The Atlantic Ocean is the second largest of the world's
+
+ORIGINAL ==============================
+The Atlantic Ocean is the second largest of the world's oceans, with an area of about . It covers approximately 20 percent of Earth's surface and about 29 percent of its water surface area. It separates the "Old World
+
+
+
+GENERATED ==============================
+The Atlantic Ocean is the second largest of the world's oceans. This large area has a surface gravity between 0 and 6.1, which means that at sea level it makes up about 40% to 70 % for all ocean-related mass processes

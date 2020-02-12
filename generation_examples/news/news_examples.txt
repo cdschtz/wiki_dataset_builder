@@ -1,0 +1,71 @@
+News examples:
+
+
+EXAMPLE 1 ==============================
+
+INPUT:
+On Saturday morning, representatives from Iran acknowledged their government had "unintentionally" shot down a Ukrainian passenger jet near Tehran, blaming "human error" and the fear of aggression from the United States. The 176 people on board were all killed.
+
+TRUE NEWS:
+Iranian President Hassan Rouhani said, "The Islamic Republic of Iran deeply regrets this disastrous mistake. My thoughts and prayers go to all the mourning families".
+
+A few hours before the Boeing 737-800 jet crashed on Wednesday, Iran launched missiles targeting US troops in Iraqi military bases in response to the US airstrike that killed Iranian general, Qasem Soleimani at a Baghdad airport.
+
+US Secretary of State Mike Pompeo said the crash was "likely" Iran's doing. For several days Iran denied the accusation.
+
+
+GPT-2:
+Russia's defense ministry said the passenger jet was shot down on Sunday "in the region of the Islamic Republic of Iran's airspace," and that its pilots "had recognized that the military aircraft was a Russian military plane," according to a Reuters report.
+
+Russia's deputy prime minister Dmitry Rogozin said the plane had been a "terrorist" target and a Russian fighter jet shot it down, Reuters reported.
+
+Iran's ambassador to Russia, Ali Shamkhani, told reporters on Thursday that the U.S. government gave
+
+
+
+EXAMPLE 2 ==============================
+
+INPUT:
+Thursday, United States military forces killed Qasem Soleimani, head of Iran's Quds Force, in an airstrike.
+
+TRUE NEWS:
+The United States called its actions defensive in nature, pointing to the December 31 attack on the United States Embassy in Baghdad as an example of the attacks on U.S. citizens that Soleimani took part in. The United States carried out the airstrike at Baghdad International Airport, where Soleimani was arriving by plane. He was being met by Abu Mahdi al-Muhandis, who was also killed in the airstrike. al-Muhandis was the deputy commander of the Popular Mobilization Forces (PMF), an Iranian-backed militia. Other victims included a Kataeb Hezbollah official and Mohammed Reda, an airport protocol officer. The Daily Telegraph, citing local paramilitary groups, reported that the attack consisted of three rockets launched from helicopters.
+
+OUTPUT:
+The US attacked and killed two other IRGC generals in northern Iraq on Wednesday, according to the Iranian Revolutionary Guard, a semi-official news agency. A US government official who spoke to Reuters confirmed the deaths, saying two of them were members of Soleimani's elite Quds Force and one was an adviser. In response to the reported US strike, the Quds Force issued a statement saying "nothing would deter the Iranian Revolutionary Guards' operational momentum." The statement added that the United States "still has not returned to the negotiating table with Iran to reach a real and effective agreement."
+
+
+
+EXAMPLE 3 ==============================
+
+INPUT:
+On Wednesday, Time magazine announced its selection of climate change activist Greta Thunberg as their 2019 "Person of the Year".
+
+TRUE NEWS:
+The sixteen-year-old Swede is currently the youngest recipient of the 92-year-old award. Thunberg received the award, with which Time credits an individual as having done "for better or for worse [...] the most to influence the events of the year", for her work drawing attention to the issue of climate change. Thunberg began her climate protest on August 20, 2018, at the age of fifteen, outside of the Swedish Parliament, instead of attending school. She protested alone on the first day, but thousands of Swedes eventually joined the protest. That September, the Fridays for Future movement launched; Thunberg promised protests every week until Sweden joined the Paris Agreement.
+
+OUTPUT:
+The highly-respected environmental advocate is best known for her leading role in the crusade against the Keystone XL pipeline, of which she was a key opposition figure. Thunberg, who has documented the fight over the pipeline over the past two years, was seen as a possible president in 2020 until Donald Trump came onto the scene. Time praised the "a tireless, inspiring and compelling activist" who "courageously" campaigned against the pipeline. The magazine quoted her comments at the beginning of the Trump administration as saying she sees it as an example of how power, "when wielded with indifference or intolerance, can break our hearts
+
+
+EXAMPLE 4 ==============================
+
+INPUT:
+On Friday, researchers at Imperial College London posted findings estimating the number of people infected with a new coronavirus may
+
+TRUE NEWS:
+On Friday, researchers at Imperial College London posted findings estimating the number of people infected with a new coronavirus may considerably exceed 1000. The SARS-like virus first appeared in December in Wuhan, China. As of today, Chinese officials confirmed it has infected over 200 people mostly in Wuhan and killed three people. Reported cases also appeared in Thailand, South Korea, and Japan.
+The study was conducted by Imperial College London's MRC Centre for Global Infectious Disease Analysis pursuant to a strange case of pneumonia in China. The study accounts for air traffic flow and known cases outside China to construe the estimate, a "total of 1,723 cases" in Wuhan on January 12. The research team posted their findings online before official publication.
+
+OUTPUT:
+On Friday, researchers at Imperial College London posted findings estimating the number of people infected with a new coronavirus may be between 6,400 and 14,300 cases in the UK alone.
+The study was done in consultation with the NHS and we have taken steps to help ensure we protect patients' safety | Kate Maltby Read more
+The two human cases of the virus, published on Sunday in the Lancet, bring the total number of cases worldwide to 89 and the number of deaths to 10, an increase from the previous week.
+The chief executive of the World Health Organisation, Dr Margaret Chan, was shocked by the figures, which are a blow for the war on the virus. "We are shocked and appalled to hear that the number of cases recorded globally.
+
+
+
+
+
+
+
