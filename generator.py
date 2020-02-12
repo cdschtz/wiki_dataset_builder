@@ -226,7 +226,7 @@ config = {
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename='logs/info.log')
+    filename='logs/info/{}.log'.format(datetime.now().isoformat()))
 
 f_range = range(1)
 # check for user input
