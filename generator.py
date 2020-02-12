@@ -178,7 +178,10 @@ def generate_text_for_folder(in_path, config, file_range=range(1), verbose=False
                 current_time = datetime.now().strftime("%H:%M:%S")  # get time in hours:minutes:seconds
                 logging.info(info_string.format(i, file_path, 'Started', current_time, 0.00))
             Path(out_path[:-13]).mkdir(parents=True, exist_ok=True)
-            gen_text_from_file(file_path, config, out_path, verbose=True)
+            try:
+                gen_text_from_file(file_path, config, out_path, verbose=True)
+            except Exception:
+                logging.info(' ********** ERORR IN EXECUTION' + str(Exception))
             if verbose:
                 elapsed_time = time.time() - start_time
                 current_time = datetime.now().strftime("%H:%M:%S")  # get time in hours:minutes:seconds
